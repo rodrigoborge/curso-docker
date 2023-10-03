@@ -22,7 +22,7 @@
 * **cd + nome do diretorio** ➜ muda o diretorio
 * **cd ..** ➜ volta um diretorio
 * **mkdir + nome** ➜ cria um novo diretório
-* **cd ~** ➜ vai para a home
+* **cd~** ➜ vai para a home
 * **mv + nome da pasta + nome novo** ➜ para renomear pastas
 * **touch** ➜ para criar arquivos
 * **rm** ➜ remove o arquivo
