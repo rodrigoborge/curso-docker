@@ -7,3 +7,4 @@
 - **docker stop + docker id** -> para parar o container
 - **docker start + docker id** -> para voltar o container parado
 - **docker rm -f + docker id** -> remove o container
+- quando temos dados que devem estar conectados ao conteiner o certo é coloca-lo dentro de um volume, pois os volumes são persistentes
