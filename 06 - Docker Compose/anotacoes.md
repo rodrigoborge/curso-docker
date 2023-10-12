@@ -1,5 +1,5 @@
 # Montar Docker Compose
-- docker-compose up
+- docker-compose up -d
 
 # Arquivos .yml
 - Servem para escrever configurações
