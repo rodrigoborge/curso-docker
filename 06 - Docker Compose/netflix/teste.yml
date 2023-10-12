@@ -8,11 +8,11 @@ services:
     ports:
       - 3000:3000
 
-  backend:
-    depends_on:
+  backend: 
+    depends_on: 
       - db
     build: ./backend
-    ports:
+    ports: 
       - 3001:3001
     environment: 
       DB_URL: mongodb://db/vidly
